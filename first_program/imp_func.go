@@ -21,4 +21,7 @@ func main() {
 
 	fmt.Println("Hello,", name)
 	fmt.Println("Summation = ", sum)
+
+	fmt.Println("Thank you for using the application")
+	fmt.Println("Goodbye!")
 }
